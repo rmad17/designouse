@@ -1,0 +1,20 @@
+extend layout
+block content
+  p
+     | I am an open source developer. I specialize in logos and banners. I can also plan projects and manage them. I love participating in open source projects and learning new technologies.
+  p
+     | I also write blogs and do quizzing.
+block sidebar
+  .widget
+    h1 Contact Me
+    p
+      | Sourav Basu
+    p 
+      | 9674085848
+    p 
+      a(href='mailto:souravbasu17@gmail.com') souravbasu17@gmail.com
+    p
+      |Github:
+      a(href='https://github.com/rmad17') rmad17
+    p
+      | IRC nick: rmad@freenode.net   
